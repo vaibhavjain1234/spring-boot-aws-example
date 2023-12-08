@@ -1,2 +1,2 @@
-This is test1.txt file.
-This is example of git pull
+This is test1.txt file..
+This is example of git pull.
